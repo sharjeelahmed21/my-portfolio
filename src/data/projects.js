@@ -32,7 +32,7 @@ export const projects = [
     description: "A complete system for managing hospital operations, including patient records, appointments, and staff scheduling.",
     technologies: ["React", "Node.js", "MySQL", "Express"],
     githubUrl: "https://github.com/sharjeelahmed21/Hospital-Management-System",
-    liveUrl: "#",
+    liveUrl: "https://sharjeelahmed21.github.io/Hospital-Management-System/",
     image: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&q=80&w=600",
   },
   {
