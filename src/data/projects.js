@@ -41,7 +41,7 @@ export const projects = [
     description: "A sleek and responsive task management application with local storage and filtering capabilities.",
     technologies: ["React", "CSS3", "Local Storage"],
     githubUrl: "https://github.com/sharjeelahmed21",
-    liveUrl: "#",
+    liveUrl: "https://sharjeelahmed21.github.io/To-do-list-/",
     image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=600",
   },
 ];
