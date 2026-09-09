@@ -14,7 +14,7 @@ export const projects = [
     description: "An intelligent chatbot interface capable of understanding context and providing helpful responses.",
     technologies: ["React", "Tailwind CSS", "OpenAI API", "Node.js"],
     githubUrl: "https://github.com/sharjeelahmed21",
-    liveUrl: "#",
+    liveUrl: "https://sharjeelahmed21.github.io/Ai-Chatbot/",
     image: "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?auto=format&fit=crop&q=80&w=600",
   },
   {
