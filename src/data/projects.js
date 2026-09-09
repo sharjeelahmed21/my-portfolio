@@ -4,7 +4,7 @@ export const projects = [
     title: "E-Commerce Website",
     description: "A full-featured e-commerce platform with product management, shopping cart, and secure checkout functionality.",
     technologies: ["React", "Node.js", "Express", "MongoDB", "Redux"],
-    githubUrl: "https://github.com/sharjeelahmed21/E-Commerce",
+    githubUrl: "https://github.com/sharjeelahmed21/",
     liveUrl: "https://sharjeelahmed21.github.io/Ecommerce/",
     image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80&w=600",
   },
